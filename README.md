@@ -11,6 +11,6 @@ The resources include **PPTs and PDFs** covering:
 * 🏠 Hostel - Dharmsinh Desai University (DDU) related information
 * 🧩 Clubs and student activities at DDU
 
-Each resource also includes the **contact details of its creator**, so you can reach out to them if you have questions or want to learn more.
+Each resource also includes the **contact details of its creator**, so you can reach out to us if you have questions or want to learn more.
 
 Feel free to explore the resources that interest you and make the most of your first year!
