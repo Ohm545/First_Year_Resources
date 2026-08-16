@@ -8,8 +8,7 @@ The resources include **PPTs and PDFs** covering:
 * 💻 Competitive Programming (CP)
 * 🔐 Cybersecurity
 * 📚 GATE preparation
-* 🏠 Hostel-related information
-* 🏫 Dharmsinh Desai University (DDU) related information
+* 🏠 Hostel - Dharmsinh Desai University (DDU) related information
 * 🧩 Clubs and student activities at DDU
 
 Each resource also includes the **contact details of its creator**, so you can reach out to them if you have questions or want to learn more.
