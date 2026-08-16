@@ -1,0 +1,19 @@
+========================================
+DSA & COMPETITIVE PROGRAMMING ROADMAP
+========================================
+
+A beginner-friendly roadmap and curated
+resources to start Programming, DSA and
+Competitive Programming.
+
+Complete Roadmap:
+https://github.com/meghnaik7/beginner-to-problem-solver
+
+Resources included:
+- C Programming
+- TUF A2Z DSA Sheet
+- CP-31
+- Codolio
+- Notion
+
+Learn → Practice → Track → Improve → Repeat 
